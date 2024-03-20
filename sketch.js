@@ -1,4 +1,3 @@
-
 let checkbox;
 let slider;
 let selection;
@@ -67,4 +66,5 @@ function draw() {
 
   }
   
+
 
